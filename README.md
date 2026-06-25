@@ -226,7 +226,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Noor Uleman**
 - GitHub: [@NoorULEman023](https://github.com/NoorULEman023)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
+noor-ul-eman-b0904b347
+)
 
 ---
 
