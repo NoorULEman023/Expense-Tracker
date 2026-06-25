@@ -121,13 +121,13 @@ Navigate to: `http://127.0.0.1:5000`
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](file:///C:/Users/Laptop%20House/OneDrive%20-%20Higher%20Education%20Commission/4th%20Semester/Internship/Desktop/expense-tracker/dashboard.png)
 
 ### Add Expense Page
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](file:///C:/Users/Laptop%20House/OneDrive%20-%20Higher%20Education%20Commission/4th%20Semester/Internship/Desktop/expense-tracker/addexpense.png)
 
 ### Charts & Analytics
-![Charts](screenshots/charts.png)
+![Charts](file:///C:/Users/Laptop%20House/OneDrive%20-%20Higher%20Education%20Commission/4th%20Semester/Internship/Desktop/expense-tracker/dashboard3.png)
 
 ---
 
@@ -226,7 +226,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Noor Uleman**
 - GitHub: [@NoorULEman023](https://github.com/NoorULEman023)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noor-ul-eman-b0904b347/)
+- LinkedIn: [NoorULEman](https://www.linkedin.com/in/noor-ul-eman-b0904b347/)
 
 ---
 
