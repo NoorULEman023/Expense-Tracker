@@ -167,8 +167,8 @@ Navigate to: `http://127.0.0.1:5000`
 
 ## 🧪 Sample Data
 
-| Description      | Category  | Amount |
-|---------------=--|-----------|--------|
+| Description | Category  | Amount |
+|------------------|-----------|--------|
 | Grocery Shopping | Food      | 85.50 |
 | Uber Ride        | Transport | 32.00 |
 | New Jeans        | Shopping  | 59.99 |
@@ -226,9 +226,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Noor Uleman**
 - GitHub: [@NoorULEman023](https://github.com/NoorULEman023)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
-noor-ul-eman-b0904b347
-)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/noor-ul-eman-b0904b347/)
 
 ---
 
